@@ -15,7 +15,7 @@ from discord.ext.tasks import loop
 
 client = discord.Client()
 
-token = 'NjM3MTgyODg2ODQ3NzA5MTk0.XbZdFQ.O9kIWmtM7GJQASJ20dQA_pzl1sQ'
+token = ''
 balance = 10000
 
 blockMined = False
